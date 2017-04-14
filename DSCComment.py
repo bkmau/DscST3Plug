@@ -3,6 +3,7 @@ from enum import Enum
 import re
 import unittest
 
+
 class Action(Enum):
     add = 1
     modi = 2
